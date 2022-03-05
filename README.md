@@ -2,7 +2,7 @@
 
 ## Objective
 ---
-    Improving Google Map's shortest path algorithm by implementing Dijkstra Algorithm with revised weightages to take into account indeterminable events like marriage processions while travelling.
+   Implemented Dijkstra's algorithm in C to traverse the shortest path on a custom map with revised weights to consider indeterminable events during execution.
 
 
 ## Calculating weightages
